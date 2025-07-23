@@ -41,9 +41,9 @@
       "courses": ["DS & Algorithms", "Database Administration", "Data Science and Data Analysis",  "Artificial Neural Networks",  "Machine Learning",  "Digital Image Processing"]
     },
   ],
-  "Languages": [Python, C++, Java, R, SQL, Javascript],
-  "ML/AI": [PyTorch, TensorFlow, Hugging Face, Scikit-learn, XGBoost, OpenCV, MLFlow, Langchain, CUDA, Deepspeed, vLLM]
-  "Data & Infra": [GCP, AWS, Spark, Beam, Airflow, Kafka, Docker, Kubernetes, Git],
+  "Languages": ["Python", "C++", "Java", "R", "SQL", "Javascript"],
+  "ML/AI": ["PyTorch", "TensorFlow", "Hugging Face", "Scikit-learn", "XGBoost", "OpenCV", "MLFlow", "Langchain", "CUDA", "Deepspeed", "vLLM"],
+  "Data & Infra": ["GCP", "AWS", "Spark", "Beam", "Airflow", "Kafka", "Docker", "Kubernetes", "Git"],
   "publications": [
     {
       "name": "Reinforcement Learning for Improving Coherence of Multi-turn Responses in Deep Learning-Based Chatbots",
