@@ -1,5 +1,5 @@
 ---
-title: "Reinforcement Learning for Improving Coherence of Multi-turn Responses in Deep Learning-Based Chatbots”"
+title: "Reinforcement Learning for Improving Coherence of Multi-turn Responses in Deep Learning-Based Chatbots"
 collection: publications
 category: manuscripts
 permalink: /publication/paper1
