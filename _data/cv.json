@@ -1,144 +1,60 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Suhaas Kiran DG",
+    "email": "dgsk.suhaas@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://suhaaskiran.github.io",
+    "summary": "An AI/ML enthusiast with experience in cloud, recommendation systems, vision and multimodal systems.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "New York City",
       "countryCode": "US",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "SuhaasKiran",
+        "url": "http://github.com/SuhaasKiran"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Massachusetts Amherst",
+      "area": "MS in Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "September 2023",
+      "endDate": "May 2023",
+      "gpa": null,
+      "courses": [Neural Networks,  Advanced Algorithms,  Software Engineering,  Computer Vision,  Deep Generative Models,  3D Visual Computing,  Security and Privacy in Generative Models,  Information Retrieval,  Natural Language Processing]
+    },
+    {
+      "institution": "PES University",
+      "area": "B.Tech in Electronics and Communication",
+      "studyType": "",
+      "startDate": "August 2016",
+      "endDate": "May 2020",
       "gpa": null,
       "courses": []
     },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "Languages": [Python, C++, Java, R, SQL, Javascript],
+  "ML/AI": [PyTorch, TensorFlow, Hugging Face, Scikit-learn, XGBoost, OpenCV, MLFlow, Langchain, CUDA, Deepspeed, vLLM
+]
+  "Data & Infra": [GCP, AWS, Spark, Beam, Airflow, Kafka, Docker, Kubernetes, Git
+],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Reinforcement Learning for Improving Coherence of Multi-turn Responses in Deep Learning-Based Chatbots",
+      "publisher": "roceedings of International Conference on Communication, Circuits, and Systems",
+      "releaseDate": "2021-04-03",
+      "website": "https://link.springer.com/chapter/10.1007/978-981-33-4866-0_34",
+      "summary": "Chatbots are still far behind in their ability to hold meaningful conversations. The objective of the work is to implement and improve the multi-turn responses of deep learning-based chatbots. Multi-turn response is the ability of a chatbot to give coherent and sensible responses in successive turns. Firstly, sequence to sequence (Seq2Seq) model was built, and its responses were analyzed by varying training parameters. Secondly, the reinforcement learning (RL) method using the Seq2Seq model was implemented, and it is demonstrated that this improves coherence in multi-turn conversations. The RL model performed better than the Seq2Seq model in terms of BiLingual Evaluation Understudy (BLEU) score with a score of 0.3334 compared to 0.2336 of the Seq2Seq model. Average conversation length was found to increase with RL with 3.75 turns compared to 3.05 turns with Seq2Seq."
     },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
+    
   ],
   "portfolio": [
     {
