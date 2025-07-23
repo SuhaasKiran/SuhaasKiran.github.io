@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Adversarial Patch Defense"
+excerpt: "
+Developed a robust defense pipeline against adversarial patch attacks on ImageNet by generating targeted patches and building a patch detection and segmentation model. Enhanced model resilience by covering adversarial regions prior to classification, resulting in an 83.7% improvement in Top-1 accuracy and a 12.5% gain in Top-5 accuracy on adversarial test sets.
+<br/><img src='/images/500x300.png'>"
+collection: Project
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+[Code]: https://github.com/SuhaasKiran/adversarial_patch_defense
