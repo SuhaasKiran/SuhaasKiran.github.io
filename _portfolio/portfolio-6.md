@@ -7,4 +7,5 @@ Built a suite of generative models from scratch to synthesize MNIST digits, incl
 <br/><img src='/images/mnist_dgl.png'>"
 collection: Projects
 ---
+[Code](https://github.com/SuhaasKiran/Deep-Generative-Models)
 
