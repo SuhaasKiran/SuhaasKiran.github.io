@@ -5,5 +5,4 @@ Developed a robust defense pipeline against adversarial patch attacks on ImageNe
 <br/><img src='/images/adp.png'>"
 collection: Project
 ---
-
 [Code]: https://github.com/SuhaasKiran/adversarial_patch_defense
