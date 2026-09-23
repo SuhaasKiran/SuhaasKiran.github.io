@@ -4,7 +4,7 @@
     "email": "dgsk.suhaas@gmail.com",
     "phone": "",
     "website": "https://suhaaskiran.github.io",
-    "summary": "An AI/ML enthusiast with experience in cloud, recommendation systems, vision and multimodal systems.",
+    "summary": "Engineer with 4+ years of experience building and shipping production systems across AI/LLMs, backend engineering, and cloud infrastructure.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -20,14 +20,47 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "company": "OLIS AI",
+      "position": "Founding Engineer",
+      "startDate": "August 2025",
+      "endDate": "July 2026",
+      "summary": "Owned the 0-to-1 development of an AI product, building a LangGraph agent harness for hybrid RAG and tools, a secure multi-tenant FastAPI/PostgreSQL backend, and ingestion workers for Microsoft 365, Google Workspace, Slack, and Teams. Improved answer relevance and tenant security with Milvus, Elasticsearch BM25, cross-encoder reranking, and ACL filters; deployed with Azure Container Apps, GitHub Actions, monitoring, and LangSmith.",
+      "highlights": []
+    },
+    {
+      "company": "Graphite.io",
+      "position": "Research Extern",
+      "startDate": "February 2025",
+      "endDate": "May 2025",
+      "summary": "Engineered a multi-agent long-form article generator using LangGraph, RAG, and STORM-based conversation simulations. Built planner, writer, and editor feedback loops plus a custom LLM-as-a-judge framework that achieved a 70% win rate over GPT-4o and a 5.04-point QA improvement.",
+      "highlights": []
+    },
+    {
+      "company": "Google",
+      "position": "Forward Deployed Engineer, Data AI/ML",
+      "startDate": "August 2020",
+      "endDate": "August 2023",
+      "summary": "Owned architecture, proofs of concept, deployment, and production support for 150+ priority enterprise workloads, resolving 400+ production issues. Built automation that reduced SLA misses by 70% and resolution time by 27%, alongside reusable Python ETL pipelines and developer tooling using Dataflow, Apache Beam, Composer, BigQuery, and Vertex AI.",
+      "highlights": []
+    },
+    {
+      "company": "Infoblox",
+      "position": "Software Engineering Intern",
+      "startDate": "January 2020",
+      "endDate": "June 2020",
+      "summary": "Refactored NIOS by removing legacy implementations, unnecessary dependencies, and non-DNS functionality, reducing startup time by 25% while simplifying the codebase. Developed reusable network-service management components for the web UI using C++, React, and Angular.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
       "institution": "University of Massachusetts Amherst",
       "area": "MS in Computer Science",
       "studyType": "",
       "startDate": "September 2023",
-      "endDate": "May 2023",
+      "endDate": "May 2025",
       "gpa": null,
       "courses": ["Neural Networks",  "Advanced Algorithms",  "Software Engineering",  "Computer Vision",  "Deep Generative Models",  "3D Visual Computing",  "Security and Privacy in Generative Models",  "Information Retrieval"]
     },
@@ -39,11 +72,15 @@
       "endDate": "May 2020",
       "gpa": null,
       "courses": ["DS & Algorithms", "Database Administration", "Data Science and Data Analysis",  "Artificial Neural Networks",  "Machine Learning",  "Digital Image Processing"]
-    },
+    }
   ],
-  "Languages": ["Python", "C++", "Java", "R", "SQL", "Javascript"],
-  "ML/AI": ["PyTorch", "TensorFlow", "Hugging Face", "Scikit-learn", "XGBoost", "OpenCV", "MLFlow", "Langchain", "CUDA", "Deepspeed", "vLLM"],
-  "Data & Infra": ["GCP", "AWS", "Spark", "Beam", "Airflow", "Kafka", "Docker", "Kubernetes", "Git"],
+  "skills": [
+    {"name": "Languages", "keywords": ["Python", "C++", "JavaScript", "TypeScript", "SQL"]},
+    {"name": "Backend & Web", "keywords": ["FastAPI", "REST APIs", "React", "Next.js", "PostgreSQL", "Redis", "MongoDB"]},
+    {"name": "AI/ML", "keywords": ["PyTorch", "Vertex AI", "LangGraph", "Claude Agents SDK", "RAG", "Agent Harness", "Agent Evaluation"]},
+    {"name": "Cloud & Infrastructure", "keywords": ["GCP", "Azure", "AWS", "Docker", "Kubernetes", "GitHub Actions", "Git"]},
+    {"name": "Data", "keywords": ["Apache Beam", "Pub/Sub", "Spark", "Airflow", "Kafka", "Elasticsearch", "Milvus", "Neo4j"]}
+  ],
   "publications": [
     {
       "name": "Reinforcement Learning for Improving Coherence of Multi-turn Responses in Deep Learning-Based Chatbots",
@@ -51,8 +88,7 @@
       "releaseDate": "2021-04-03",
       "website": "https://link.springer.com/chapter/10.1007/978-981-33-4866-0_34",
       "summary": "Chatbots are still far behind in their ability to hold meaningful conversations. The objective of the work is to implement and improve the multi-turn responses of deep learning-based chatbots. Multi-turn response is the ability of a chatbot to give coherent and sensible responses in successive turns. Firstly, sequence to sequence (Seq2Seq) model was built, and its responses were analyzed by varying training parameters. Secondly, the reinforcement learning (RL) method using the Seq2Seq model was implemented, and it is demonstrated that this improves coherence in multi-turn conversations. The RL model performed better than the Seq2Seq model in terms of BiLingual Evaluation Understudy (BLEU) score with a score of 0.3334 compared to 0.2336 of the Seq2Seq model. Average conversation length was found to increase with RL with 3.75 turns compared to 3.05 turns with Seq2Seq."
-    },
-    
+    }
   ],
   "portfolio": [
     {

@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/paper1
 excerpt: 'Improved coherence in multi-turn chatbot conversations by applying reinforcement learning to sequence-to-sequence models, achieving a 43% gain in BLEU score and increased average conversation length.'
 date: 2021-04-03
-venue: 'Proceedings of International Conference on Communication, Circuits, and Systems, 2020'
+venue: 'International Conference on Communication, Circuits, and Systems (ICCCS), 2021'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-981-33-4866-0_34'
 ---

@@ -9,40 +9,30 @@ redirect_from:
 ---
 # About Me
 
-Machine Learning Engineer and former Google Cloud Solutions Engineer with 4+ years of experience building scalable AI systems and LLM applications. Skilled in fine-tuning foundation models, RAG pipelines, and ML deployment with modern MLOps stacks. Proven success across research, startups, and enterprise environments. Strong academic foundation with an MS in Computer Science from UMass Amherst and a BTech in Electronics from PES University. Interested in recommender systems, computer vision, and multimodal learning.
+Engineer with 4+ years of experience building and shipping production systems across startups and big tech. Product-minded and customer-centric, with end-to-end ownership across AI and LLM applications, backend engineering, and cloud infrastructure. I enjoy turning ambiguous product ideas into reliable systems and working closely with customers to improve them.
 
 ## Experience
-- **Stealth Startup, Remote**
-  - *Fouding AI Engineer (April 2025 - Present)*
+- **OLIS AI, New York City**
+  - *Founding Engineer (August 2025 - July 2026)*
 
-    Part of a pre-seed startup focused on personalized LLM applications. Led core AI initiatives including fine-tuning foundation models, building RAG pipelines, and deploying scalable LLM APIs. Collaborated closely with founding team to shape the architecture and improve user dashboard features.
-    
-- **Graphite.io, Remote**
-  - *Research Collaborator (Feb - May 2025)*
+    Owned the 0-to-1 development of an AI product, from architecture and prototypes through production. Built a LangGraph agent harness for hybrid RAG and tool integrations, a secure multi-tenant FastAPI and PostgreSQL backend, and ingestion workers for Microsoft 365, Google Workspace, Slack, and Teams. The retrieval stack combined Milvus, Elasticsearch BM25, cross-encoder reranking, and ACL filters to improve answer relevance and tenant security. Deployed and operated the system with Azure Container Apps, GitHub Actions, monitoring, and LangSmith, while partnering with pilot customers to drive product iterations.
 
-    Worked on research-driven content generation systems using multi-agent LLMs and retrieval-based pipelines. Focused on improving long-form article quality through planner–writer–editor coordination and developed custom evaluation frameworks using LLM-as-a-judge.
+- **Graphite.io, Amherst, MA**
+  - *Research Extern (February - May 2025)*
 
-- **DREAM Lab, University of Massachusetts Amherst**
-  - *Student Researcher (Sep 2024 - March 2025)*
- 
-    Helped building scalable GNN training strategies using GPU-optimized memory and dependency management. Focused on benchmarking training performance and accuracy for link prediction tasks using libraries like DGL and PyG.
+    Engineered a multi-agent long-form article generator using LangGraph, RAG, and STORM-based conversation simulations. Designed planner, writer, and editor modules with tool-calling and retrieval feedback loops, then built a custom LLM-as-a-judge evaluation framework that achieved a 70% win rate over GPT-4o and a 5.04-point improvement in QA. Tech stack: Python, LangGraph, RAG, tool calling, and LLM evaluation.
 
-- **BioNLP Lab, University of Massachusetts Amherst**
-  - *Student Researcher (October 2025 - May 2025)*
- 
-    Explored fine-grained multimodal understanding by aligning textual and visual data using VLMs like InternVL2. Proposed a novel attribute-based re-ranking approach, improving zero-shot image–text matching accuracy beyond fine-tuned baselines.
+- **Google, Bangalore, India**
+  - *Forward Deployed Engineer, Data AI/ML (August 2020 - August 2023)*
 
-- **Google, India**
-  - *Cloud Solutions Engineer (Aug 2020 - May 2023)*
- 
-    Supported enterprise clients in designing and scaling data workflows on Google Cloud. Acted as a subject matter expert for Dataflow and Composer, and built internal tools and ML-based solutions to optimize case handling, sentiment analysis, and customer reliability—impacting high-profile clients like Flipkart.
+    Owned end-to-end customer implementations across architecture, proofs of concept, deployment, and production support for more than 150 priority enterprise workloads, resolving 400+ production issues. Built automation that reduced SLA misses by 70% and resolution time by 27%, and created reusable ETL pipelines and developer tooling that turned recurring production issues into repeatable solutions. Tech stack: Dataflow, Apache Beam, Composer, BigQuery, Vertex AI, Python, and GCP.
 
-- **Infoblox, India**
-  - *Software Engineering Intern (Jan 2020 - June 2020)*
- 
-    Worked on identifying and removing the functionalities not related to the DNS for NIOS (Network Identity Operating System) and running tests to assess its effects on the performance of the system.
+- **Infoblox, Bangalore, India**
+  - *Software Engineering Intern (January - June 2020)*
+
+    Refactored NIOS by removing legacy implementations, unnecessary dependencies, and non-DNS functionality, reducing startup time by 25% while simplifying the codebase. Also developed reusable network-service management components for the NIOS web UI. Tech stack: C++, React, and Angular.
 
 ## Career Goals
 
 
-I am seeking full-time opportunities in Applied AI/ML, Research Engineering, or Applied Scientist roles. My goal is to contribute to the development of impactful machine learning systems while continuing to grow as an engineer and researcher.
+I am interested in high-ownership opportunities building and scaling AI products, LLM applications, backend systems, and cloud infrastructure.
